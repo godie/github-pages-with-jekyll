@@ -1,2 +1,5 @@
-title: my first entry
+---
+title: "YOUR-TITLE"
+date: YYYY-MM-DD
+---
 ## Test entry
